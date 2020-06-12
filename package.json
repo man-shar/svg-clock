@@ -1,0 +1,19 @@
+{
+  "name": "svg-clock",
+  "version": "1.0.0",
+  "description": "A well behaved svg clock ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manas271196/svg-clock.git"
+  },
+  "author": "Manas Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manas271196/svg-clock/issues"
+  },
+  "homepage": "https://github.com/manas271196/svg-clock#readme"
+}
